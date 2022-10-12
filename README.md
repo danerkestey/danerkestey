@@ -1,7 +1,7 @@
-<h2>Hey 👋, I'm <a href="https://daner.dev/">Daner</a>!</h2>
+<h2 align="center">Hey 👋, I'm <a href="https://daner.dev/">Daner</a>!</h2>
 
 
-<p>I'm an undergraduate student at WLU studying CS with a Business Option and Co-op.</p>
+<p align="center">I'm an undergraduate student at WLU studying CS with a Business Option and Co-op.</p>
 
 
 <p align="center"><a href="https://daner.dev/"><img src="https://img.shields.io/badge/-daner.dev-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://daner.dev/" alt="Website Badge"></a> <a href="https://www.linkedin.com/in/daneryasin/"><img src="https://img.shields.io/badge/-@daneryasin-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/daneryasin/" alt="LinkedIn Badge"></a> <a href="https://devpost.com/danerkestey"><img src="https://img.shields.io/badge/-@danerkestey-003E54?style=flat-square&amp;labelColor=003E54&amp;logo=devpost&amp;link=https://devpost.com/danerkestey" alt="Devpost Badge"></a> </a> <img src="https://komarev.com/ghpvc/?username=danerkestey&style=flat-square"> <a href="https://github.com/danerkestey/"></p>
