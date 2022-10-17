@@ -33,4 +33,4 @@
 </p>
 
 
-<strong>Feel free to hit me up on LinkedIn!
+<strong>Feel free to hit me up on <a href="https://linkedin.com/in/danerkestey/">LinkedIn</a>!</strong>
